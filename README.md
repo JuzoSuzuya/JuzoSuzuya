@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="JUZO" width="100%" />
+<img src="assets/banner-juzo.png?raw=1" alt="JUZO" width="100%" />
 
 <br/>
 
@@ -53,49 +53,5 @@
 ![Nginx](https://img.shields.io/badge/Nginx-0A1A28?style=flat-square&logo=nginx&logoColor=7AD7F5)
 ![SQLite](https://img.shields.io/badge/SQLite-0A1A28?style=flat-square&logo=sqlite&logoColor=7AD7F5)
 ![Three.js](https://img.shields.io/badge/Three.js-0A1A28?style=flat-square&logo=threedotjs&logoColor=7AD7F5)
-
-</div>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-<div align="center">
-
-## ⌈ COMBAT LOG ⌋
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JuzoSuzuya&show_icons=true&theme=radical&hide_border=true&bg_color=050a10&title_color=7AD7F5&icon_color=35AEE2&text_color=c9d7e3&ring_color=35AEE2" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuzoSuzuya&layout=compact&theme=radical&hide_border=true&bg_color=050a10&title_color=7AD7F5&text_color=c9d7e3" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=JuzoSuzuya&theme=dark&hide_border=true&background=050a10&ring=35AEE2&fire=7AD7F5&currStreakLabel=7AD7F5&sideLabels=8aa0b5&dates=8aa0b5&currStreakNum=c9d7e3&sideNums=c9d7e3" alt="Streak" />
-
-</div>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-<div align="center">
-
-## ⌈ PARTY LINK ⌋
-
-|  |  |
-| :---: | :---: |
-| **DM** | [t.me/tut_Juzo](https://t.me/tut_Juzo) |
-| **Channel** | [Telegram channel](https://t.me/+DO5M0Luaej8yYWQy) |
-| **YouTube** | [youtube.com/@HoshiKojima](https://youtube.com/@HoshiKojima) |
-
-<br/>
-
-```text
-> HP  ████████████████████  100%
-> MP  ██████████████████░░   90%
-> XP  NEXT FLOOR UNLOCKED
->
-> "The world may be virtual —
->  the craft is real."
-```
-
-<img src="assets/divider.svg" alt="" width="420" />
-
-**『 Link Start 』**
 
 </div>
