@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Aincrad night sky — Hoshi / Juzo" width="100%" />
+<img src="assets/banner.png" alt="JUZO" width="100%" />
 
 <br/>
 
-# 『 HoshiKojima 』
+# 『 JUZO 』
 ### *System Log — Player ID: @tut_Juzo*
 
 <img src="assets/divider.svg" alt="" width="520" />
 
 <p>
-  <strong>ビルダー / Builder</strong> · VPN infra · Telegram bots · cinematic web<br/>
+  <strong>ビルダー / Builder</strong> · infra · bots · cinematic web<br/>
   <em>Link Start from the terminal.</em>
 </p>
 
 <p>
   <a href="https://t.me/tut_Juzo"><img src="https://img.shields.io/badge/Telegram-@tut__Juzo-35AEE2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://t.me/+DO5M0Luaej8yYWQy"><img src="https://img.shields.io/badge/Channel-SAO%20Network-0A1A28?style=for-the-badge&logo=telegram&logoColor=7AD7F5" alt="Telegram Channel" /></a>
+  <a href="https://t.me/+DO5M0Luaej8yYWQy"><img src="https://img.shields.io/badge/Channel-Network-0A1A28?style=for-the-badge&logo=telegram&logoColor=7AD7F5" alt="Telegram Channel" /></a>
   <a href="https://youtube.com/@HoshiKojima"><img src="https://img.shields.io/badge/YouTube-@HoshiKojima-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
@@ -30,11 +30,11 @@
 
 | Field | Value |
 | :---: | :---: |
-| **Handle** | `HoshiKojima` / `JuzoSuzuya` |
+| **Handle** | `JUZO` / `HoshiKojima` |
 | **Class** | Full-stack · DevOps · Product |
-| **Main Quest** | Private VPN products, Remnawave stacks, web cabinets |
+| **Main Quest** | Private infra, bots, web cabinets |
 | **Side Quest** | 3D landings, Telegram ecosystems, payment flows |
-| **Server** | France / NL / PL / RU nodes — always online |
+| **Server** | Always online |
 
 </div>
 
@@ -52,24 +52,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0A1A28?style=flat-square&logo=docker&logoColor=7AD7F5)
 ![Nginx](https://img.shields.io/badge/Nginx-0A1A28?style=flat-square&logo=nginx&logoColor=7AD7F5)
 ![SQLite](https://img.shields.io/badge/SQLite-0A1A28?style=flat-square&logo=sqlite&logoColor=7AD7F5)
-![Xray](https://img.shields.io/badge/Xray%20%2F%20Remnawave-0A1A28?style=flat-square&logoColor=7AD7F5)
 ![Three.js](https://img.shields.io/badge/Three.js-0A1A28?style=flat-square&logo=threedotjs&logoColor=7AD7F5)
-
-</div>
-
-<img src="assets/divider.svg" alt="" width="100%" />
-
-<div align="center">
-
-## ⌈ CURRENT FLOOR ⌋
-
-**SAO VPN** — unified identity, cabinet, Happ/Remna nodes, Aincrad-grade landing.
-
-<br/>
-
-<a href="https://github.com/JuzoSuzuya/SAOVPN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuzoSuzuya&repo=SAOVPN&theme=radical&hide_border=true&bg_color=050a10&title_color=7AD7F5&icon_color=35AEE2&text_color=c9d7e3" alt="SAOVPN" />
-</a>
 
 </div>
 
@@ -114,7 +97,5 @@
 <img src="assets/divider.svg" alt="" width="420" />
 
 **『 Link Start 』**
-
-<sub>profile skin · SAO night · built for GitHub</sub>
 
 </div>
